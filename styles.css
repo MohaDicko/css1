@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    color:black;
+    background-color:orange;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+body {
+    font-family: Roboto;
+}
+
+.navbar ul li {
+    display: inline-block;
+    justify-content: center;
+}
+
+
+.navbar ul li a {
+    text-align: center;
+    color: black;
+    font-family: Roboto;
+    place-items: center;
+
+}
+
+
+section > h2 {
+    color: orange;
+}
+h1 {
+    color: orange;
+    
+}
+footer{
+    text-align: center;
+    color:black;
+    background-color:orange;
+    height: 50px;
+}
+form > label{
+    color:orange
+}
+
+
